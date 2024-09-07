@@ -1,2 +1,2 @@
-TypeScripts == src
+TypeScripts == src // 
 JavaScripts == dist
